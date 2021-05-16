@@ -1,0 +1,5 @@
+﻿  kalkulator.cpp
+C:\Users\1111\Desktop\Новая папка\calc\kalkulator\kalkulator.cpp(11,9): warning C4101: temp: неиспользованная локальная переменная
+C:\Users\1111\Desktop\Новая папка\calc\kalkulator\kalkulator.cpp(37,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\1111\Desktop\Новая папка\calc\kalkulator\kalkulator.cpp(230): warning C4715: resh: значение возвращается не при всех путях выполнения
+  kalkulator.vcxproj -> C:\Users\1111\Desktop\Новая папка\calc\Debug\kalkulator.exe
